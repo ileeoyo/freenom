@@ -154,7 +154,7 @@ $ git clone https://github.com/luolongfei/freenom.git ./
 
 #### 配置过程
 ```bash
-# 复制配置文件模板
+# 复制配置文件模板 
 $ cp .env.example .env
 
 # 编辑配置文件
